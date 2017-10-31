@@ -1,0 +1,1 @@
+at present, the related information is obtained mainly through the on-site access to maintenance manual and technical manual during aircraft maintenance. by using the traditional method, not only is it more likely to loose some information, but also it cost a lot of time and the maintenance efficiency is very low.
