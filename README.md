@@ -1,2 +1,2 @@
-# assignment2Codes
-All codes for question 2
+# Client Server communication Python
+The data sent from client to the server are represented visually 
